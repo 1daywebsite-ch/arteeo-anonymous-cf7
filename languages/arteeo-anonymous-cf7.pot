@@ -1,0 +1,156 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Arteeo Anonymous Contact with Contact Form 7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-31 23:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: arteeo-anonymous-cf7"
+
+#: public/class-arteeo-anonymous-cf7-public.php:103
+msgid "<h3>Password</h3>"
+msgstr ""
+
+#: public/class-arteeo-anonymous-cf7-public.php:103
+msgid ""
+"<h4>Hello! You can only read this text if you have the correct password. If "
+"you have lost it, simply send us a new message and note the password that "
+"will be displayed after sending the message. Thanks.</h4>"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A user can submit a message anonymously, no email or anything needed, with "
+"the answer - if wanted - available at a unique URL, accessible with a "
+"password that only the submitter knows"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:69
+msgid "Add New Anonymous Form"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:68
+msgid "Add New Form"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:67
+msgctxt "Add New on Toolbar"
+msgid "Anonymous Form"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:240
+msgid "Additional (Closing) Text"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:66
+msgctxt "Admin Menu text"
+msgid "Anonymous Form"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:73
+msgid "All Anonymous Forms"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:80
+#: admin/class-arteeo-anonymous-cf7-admin.php:81
+msgid "Anonymous Form"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:74
+msgid "Anonymous Form Search"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:205
+msgid "Anonymous Form Text"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:100
+msgid "anonymous-form"
+msgstr ""
+
+#. Author of the plugin
+msgid "Arteeo"
+msgstr ""
+
+#. Name of the plugin
+msgid "Arteeo Anonymous Contact with Contact Form 7"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:71
+msgid "Edit Anonymous Form"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:198
+msgid "Form Texts"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:212
+msgid "Header Text"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://arteeo.ch"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://arteeo.ch/"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:219
+msgid "Introduction Text"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:233
+msgid "Link Text"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:70
+msgid "New Anonymous Form"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:75
+msgid "No Anonymous Form found"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:76
+msgid "No Anonymous Form Found in Trash"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:226
+msgid "Password Text"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:64
+msgctxt "Post type general name"
+msgid "Anonymous Form"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:65
+msgctxt "Post type singular name"
+msgid "Anonymous Form"
+msgstr ""
+
+#: public/class-arteeo-anonymous-cf7-public.php:103
+msgid "Submit"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:72
+msgid "View Anonymous Form"
+msgstr ""
+
+#: admin/class-arteeo-anonymous-cf7-admin.php:248
+msgid ""
+"You can edit the texts that appear for the anonymous user: the anonymous "
+"form itself, the header, the intro, password and link text, and additional "
+"text. Defaults texts are given below. Feel free to change them to suit your "
+"needs."
+msgstr ""

@@ -1,0 +1,13 @@
+<wpml-config>
+  <admin-texts>
+	<key name="arteeo_anonymous_cf7_settings">
+	  <key name="aa_cf7_form_text"/>
+	  <key name="aa_cf7_header_text"/>
+	  <key name="aa_cf7_intro_text"/>
+	  <key name="aa_cf7_password_text"/>
+	  <key name="aa_cf7_link_text"/>
+	  <key name="aa_cf7_additional_text"/>
+	  <key name="aa_cf7_access_reply_text"/>
+	</key>
+  </admin-texts>
+</wpml-config>
